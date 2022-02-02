@@ -16,6 +16,8 @@ Table of Contents
 
 [Link to Repo](https://github.com/JunoNguyen/online-sales-project)
 
+[Video Demo](https://www.youtube.com/watch?v=2KrV4KctXK0)
+
     AS an online seller, I want a way to organize my product data by category and have specific tags related to each product SO that I can have an efficient market and a way to Update my product information.
 ## Description
     This project allows the user to work within insomia to create, edit, delete, and view their products on their market. Products are sorted by category in order to maintain a clean data structure.
